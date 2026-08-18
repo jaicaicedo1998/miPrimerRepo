@@ -2,5 +2,4 @@
 
 Mi primer repositorio: Yuhuu!
 
-Mi primer cambio en git hub!
-
+Mi primera contribución local para Github
